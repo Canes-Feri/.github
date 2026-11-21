@@ -1,2 +1,6 @@
-# .github
-Organization profile and default community health files
+# Canes Feri
+
+Open-source tools & experiments.
+
+## Contact
+canes.feri@gmail.com
